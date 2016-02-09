@@ -1,0 +1,3 @@
+# AccuWeather DataManager
+
+Documentation coming soon...

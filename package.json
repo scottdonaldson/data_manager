@@ -1,0 +1,7 @@
+{
+  "name": "data_manager",
+  "version": "0.0.1",
+  "description": "AccuWeather DataManager",
+  "main": "DataManager.js",
+  "author": "AccuWeather"
+}
